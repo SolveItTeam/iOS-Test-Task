@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "status": "inProgress",
+    "name": "Physics Class",
+    "updateAt": 1579619572
+  },
+  {
+    "id": 2,
+    "status": "inProgress",
+    "name": "Chemistry Class",
+    "updateAt": 1603120372
+  },
+  {
+    "id": 3,
+    "status": "inProgress",
+    "name": "Science Class",
+    "updateAt": 1611933172
+  },
+  {
+    "id": 4,
+    "status": "completed",
+    "name": "English Class",
+    "updateAt": 1611933172
+  },
+  {
+    "id": 5,
+    "status": "notStarted",
+    "name": "Math",
+    "updateAt": 1584889972
+  }
+]
